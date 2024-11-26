@@ -1,3 +1,4 @@
+package com.scanner.project;
 // TokenStream.java
 
 // Implementation of the Scanner for JAY
