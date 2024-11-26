@@ -229,7 +229,7 @@ public class ConcreteSyntax {
 		
 		e = addition();
 		// TODO TO BE COMPLETED
-		while (token.getValue().equals("<") || token.getValue().equals("<=")
+		if (token.getValue().equals("<") || token.getValue().equals("<=")
 				|| token.getValue().equals(">")
 				|| token.getValue().equals(">=")
 				|| token.getValue().equals("==")
