@@ -1,3 +1,4 @@
+package com.scanner.project;
 // Program.java
 
 // NOT TO BE MODIFIED (except if you are sure there is a bug!)
